@@ -8,6 +8,7 @@ function Resume(props) {
             }}
         >
             <h1>{props.data.name}</h1>
+            <span>{props.data.phone}|{props.data.email}|{props.data.location}</span>
         </div>
     )
 }
