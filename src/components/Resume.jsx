@@ -7,6 +7,7 @@ function Resume(props) {
                 height:"100vh"
             }}
         >
+            <h1>{props.data.name}</h1>
         </div>
     )
 }
