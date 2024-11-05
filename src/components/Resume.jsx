@@ -16,6 +16,10 @@ function Resume(props) {
             <hr 
                 style={{width:"36vw"}}
             ></hr>
+            <h3>Education</h3>
+            <hr 
+                style={{width:"36vw"}}
+            ></hr>
         </div>
     )
 }
