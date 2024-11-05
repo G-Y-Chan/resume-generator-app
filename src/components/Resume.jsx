@@ -13,6 +13,9 @@ function Resume(props) {
                 }}
             >{props.data.name}</h1>
             <span>{props.data.phone}|{props.data.email}|{props.data.location}</span>
+            <hr 
+                style={{width:"36vw"}}
+            ></hr>
         </div>
     )
 }
